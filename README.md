@@ -27,9 +27,9 @@ Here are some of the features in this app
 
 ## How To Run
 
-- Clone the repositery. Run 'git clone https://githubcom/Oscar-Bond/Blog-App.git'
-- Run 'cd Blog-App'
-- Create a virtual environment, Run 'python -m venv env'. for Linux/Mac Run 'source env/bin/activate'. for Windows Run '.\env\Scripts\activate'
-- Run 'pip install -r requirments.txt' to install the necessary dependencies
-- Run 'python manage.py makemigrations' & 'python manage.py migrate' for the ORM migrations
-- Run 'python manage.py runserver' to start the server
+- Clone the repositery. Run `git clone https://githubcom/Oscar-Bond/Blog-App.git`
+- Run `cd Blog-App`
+- Create a virtual environment, Run `python -m venv env`. for Linux/Mac Run `source env/bin/activate`. for Windows Run `.\env\Scripts\activate`
+- Run `pip install -r requirments.txt` to install the necessary dependencies
+- Run `python manage.py makemigrations` & `python manage.py migrate` for the ORM migrations
+- Run `python manage.py runserver` to start the server
